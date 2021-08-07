@@ -1,2 +1,2 @@
 # adminpanel
-A sample of Admin Panel
+A simple Admin Panel
